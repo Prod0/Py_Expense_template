@@ -1,0 +1,7 @@
+Amount,Label,Spender,InvolvedPeople
+120,restaurant,Ruben,"['Ruben', 'Kevin']"
+120,restaurant,Jeremy,"['Ruben', 'Jeremy']"
+120,restaurant,Ruben,"['Ruben', 'Kevin']"
+120,ez,Ruben,"['Ruben', 'Kevin']"
+123,1,Ruben,['Ruben']
+120,1,Ruben,['Ruben']
